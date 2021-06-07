@@ -5,7 +5,7 @@ Corresponding Author (email): Tatsuki Fushimi (tfushimi@slis.tsukuba.ac.jp)
 Journal: Scientific Reports
 
 Perquisite: 
-Python (3.6.9): JAX, numpy, scipy, pandas
+Python (3.6.9): JAX (ver 0.2.5), numpy, scipy, pandas, TensorFlow (ver 2.3.0)
 MATLAB (ver. 2020b): Image Processing Toolbox, k-wave (http://www.k-wave.org/), subtighplot(https://github.com/cortex-lab/MATLAB-tools/blob/master/burgbox/subtightplot.m) 
 Julia (ver. 1.5.2): Adamopt, SpecialFunctions, Statistics, CSV, DataFrames, Random
 
